@@ -41,7 +41,7 @@ tags: [Festlich, Fleisch, Schmorgerichte]
 
 [STEP5] Den Speck überlappend um das gefüllte Filet wickeln und mit Zahnstochern oder Küchengarn fixieren. [TIMER:keine] [PARALLEL:keine] [BILD:pic2]
 
-[STEP6] Das Öl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Das Filet von allen Seiten goldbraun anbraten. [TIMER:0D00H08M] [PARALLEL:keine] [BILD:keine]
+[STEP6] Das Öl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Das Filet von allen Seiten goldbraun anbraten. [TIMER:0D00H01M] [PARALLEL:keine] [BILD:keine]
 
 [STEP7] Mit der Brühe und dem aufbewahrten Weinbrand ablöschen. Deckel auflegen und bei geringer Hitze schmoren lassen. [TIMER:0D00H35M] [PARALLEL:keine] [BILD:keine]
 
