@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "rezepte": [
+    {
+      "id": "schweinefilet-mit-backpflaumen",
+      "title": "Schweinefilet mit Backpflaumen",
+      "kategorie": "Fleisch",
+      "ordner": "schweinefilet-mit-backpflaumen",
+      "vorschaubild": "pic1.jpg",
+      "zeit_gesamt": 780,
+      "zeit_aktiv": 30,
+      "schwierigkeit": "mittel",
+      "personen": 4,
+      "tags": ["Festlich", "Fleisch", "Schmorgerichte"]
+    }
+  ]
+}
