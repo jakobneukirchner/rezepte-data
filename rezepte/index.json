@@ -12,6 +12,54 @@
       "schwierigkeit": "mittel",
       "personen": 4,
       "tags": ["Festlich", "Fleisch", "Schmorgerichte"]
+    },
+    {
+      "id": "gazpacho",
+      "title": "Gazpacho",
+      "kategorie": "Suppe",
+      "ordner": "gazpacho",
+      "vorschaubild": "pic1.jpg",
+      "zeit_gesamt": 150,
+      "zeit_aktiv": 30,
+      "schwierigkeit": "einfach",
+      "personen": 4,
+      "tags": ["Suppe", "Sommer", "Vegetarisch"]
+    },
+    {
+      "id": "gurkensuppe",
+      "title": "Gurkensuppe",
+      "kategorie": "Suppe",
+      "ordner": "gurkensuppe",
+      "vorschaubild": "pic1.jpg",
+      "zeit_gesamt": 15,
+      "zeit_aktiv": 15,
+      "schwierigkeit": "einfach",
+      "personen": 4,
+      "tags": ["Suppe", "Schnell", "Sommer"]
+    },
+    {
+      "id": "basilikum-erbsen-cremesuppe",
+      "title": "Basilikum-Erbsen-Cremesuppe",
+      "kategorie": "Suppe",
+      "ordner": "basilikum-erbsen-cremesuppe",
+      "vorschaubild": "pic1.jpg",
+      "zeit_gesamt": 35,
+      "zeit_aktiv": 35,
+      "schwierigkeit": "mittel",
+      "personen": 4,
+      "tags": ["Suppe", "Vegetarisch", "Fr\u00fchling"]
+    },
+    {
+      "id": "franzoesische-zwiebelsuppe",
+      "title": "Franz\u00f6sische Zwiebelsuppe",
+      "kategorie": "Suppe",
+      "ordner": "franzoesische-zwiebelsuppe",
+      "vorschaubild": "pic1.jpg",
+      "zeit_gesamt": 60,
+      "zeit_aktiv": 30,
+      "schwierigkeit": "mittel",
+      "personen": 4,
+      "tags": ["Suppe", "Klassisch", "Ofengericht"]
     }
   ]
 }
